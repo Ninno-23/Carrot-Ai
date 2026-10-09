@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.python-version
+venv/
+.venv/
+env/
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Local database and generated data
+data/*
+!data/.gitkeep
+*.db
+*.sqlite
+*.sqlite3
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
