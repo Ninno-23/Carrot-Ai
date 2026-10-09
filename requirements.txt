@@ -1,8 +1,0 @@
-Flask
-Flask-Cors
-python-dotenv
-requests
-gunicorn
-pypdf
-python-docx
-Pillow
