@@ -1,0 +1,10 @@
+{
+  "name": "Carrot AI",
+  "short_name": "Carrot AI",
+  "description": "Your AI companion for chat, study, documents, and creativity.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080d1b",
+  "theme_color": "#0b1020",
+  "icons": [{"src": "/static/carrot-logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
