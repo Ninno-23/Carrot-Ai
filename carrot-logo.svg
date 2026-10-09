@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Carrot AI logo">
+  <defs><linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#73c68a"/><stop offset="1" stop-color="#2e8d63"/></linearGradient><linearGradient id="root" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffb16f"/><stop offset="1" stop-color="#d85e2f"/></linearGradient></defs>
+  <rect width="128" height="128" rx="30" fill="#fff3e9"/>
+  <path d="M61 42C43 20 47 12 55 12c10 0 15 14 13 25 8-17 24-21 28-13 4 8-9 21-29 27Z" fill="url(#leaf)"/>
+  <path d="M53 37c-4-13-19-19-25-11-5 7 7 19 25 24Z" fill="#4da976"/>
+  <path d="M39 43c12-9 28-10 42-3 8 4 12 13 8 23L61 108c-3 7-10 7-13 0L27 67c-5-10 2-19 12-24Z" fill="url(#root)" transform="rotate(-8 58 72)"/>
+  <path d="m39 58 12 3m-6 13 12 3m-4 13 10 3" fill="none" stroke="#b94c2b" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="90" cy="91" r="18" fill="#292821"/><path d="m82 91 5 5 10-11" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

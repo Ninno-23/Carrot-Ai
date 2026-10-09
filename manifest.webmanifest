@@ -1,0 +1,11 @@
+{
+  "name": "Carrot AI — Your AI Workspace",
+  "short_name": "Carrot AI",
+  "description": "A workspace for learning, writing, coding, and creating.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#171923",
+  "theme_color": "#171923",
+  "icons": [{ "src": "/static/carrot-logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
